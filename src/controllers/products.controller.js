@@ -164,7 +164,9 @@ async function createProduct(req, res, next) {
       category: req.body.category,
       price: req.body.price,
       stock: req.body.stock,
+
       img: req.body.img, 
+
     };
 
     await productsManager.create(newProduct); // Crear un nuevo producto
