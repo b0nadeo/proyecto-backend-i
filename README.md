@@ -1,6 +1,6 @@
 # Ecommerce 
 
-#### Dev - Agustina Denis y Ezequiel Bonadeo.
+#### `Dev - Agustina Denis y Ezequiel Bonadeo.`
 
 # Pre-entrega 1.
 
@@ -54,3 +54,13 @@ Al acceder a la vista en localhost:8000/users/login, ingresaremos nuestro correo
 Por último, en localhost:8000/products/admin se mostrará la vista del administrador. Allí podremos crear un producto proporcionando los datos requeridos. Además, en el apartado de Productos Existentes, podremos actualizar la información de nuestros productos o eliminar un producto.
 
 El registro se realizó con Socket, mientras que las demás vistas fueron implementadas con JavaScript.
+
+
+
+
+
+
+
+
+
+

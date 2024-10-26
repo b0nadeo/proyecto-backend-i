@@ -17,57 +17,57 @@
   },
   {
     "title": "JoystickPS2",
-    "category": "joystick",
-    "price": 80000,
-    "stock": 1,
+    "category": "accesorios",
+    "price": "80000",
+    "stock": "1",
     "id": "8b670564aaaa94bb04c47a53",
     "img": "https://acdn.mitiendanube.com/stores/001/688/455/products/eew-f84fc415022570a4b817160449619163-1024-1024.png"
   },
   {
     "title": "JoystickPS3",
-    "category": "joystick",
-    "price": 80000,
-    "stock": 1,
+    "category": "accesorios",
+    "price": "80000",
+    "stock": "1",
     "id": "e103c10c7f3811f543805271",
     "img": "https://acdn.mitiendanube.com/stores/456/610/products/jdps3-4b98845535394128f217158790420492-1024-1024.jpg"
   },
   {
     "title": "JoystickPS3",
-    "category": "joystick",
-    "price": 80000,
-    "stock": 1,
+    "category": "accesorios",
+    "price": "80000",
+    "stock": "1",
     "id": "405a944714aa7e3a6f9d9d1e",
     "img": "https://acdn.mitiendanube.com/stores/456/610/products/jdps3-4b98845535394128f217158790420492-1024-1024.jpg"
   },
   {
     "title": "JoystickPS3",
-    "category": "joystick",
-    "price": 80000,
-    "stock": 0,
+    "category": "accesorios",
+    "price": "80000",
+    "stock": "0",
     "id": "562253391f58b5e8738e7f80",
     "img": "https://acdn.mitiendanube.com/stores/456/610/products/jdps3-4b98845535394128f217158790420492-1024-1024.jpg"
   },
   {
     "title": "mouse logitech superlight",
-    "category": "mouse",
-    "price": 156000,
-    "stock": 3,
+    "category": "accesorios",
+    "price": "156000",
+    "stock": "3",
     "id": "4441cb3a6fca149b3516acba",
     "img": "https://resource.logitechg.com/d_transparent.gif/content/dam/gaming/en/products/pro-x-superlight/pro-x-superlight-black-gallery-6.png"
   },
   {
     "title": "mouse logitech superlight",
-    "category": "mouse",
-    "price": 156000,
-    "stock": 3,
+    "category": "accesorios",
+    "price": "156000",
+    "stock": "3",
     "id": "6103390f510dfa2d81f9e5f4",
     "img": "https://resource.logitech.com/content/dam/gaming/en/products/pro-x-superlight-2/gallery-5-pro-x-superlight-2-gaming-mouse-white.png"
   },
   {
     "title": "teclado logitech",
-    "category": "teclado",
-    "price": 156000,
-    "stock": 2,
+    "category": "accesorios",
+    "price": "157000",
+    "stock": "2",
     "id": "e95d7f9f39ed8e13f61463b3",
     "img": "https://mlx.com.ar/wp-content/uploads/PER104-2-jpg.webp"
   },
@@ -81,17 +81,17 @@
   },
   {
     "title": "auriculares sony",
-    "category": "auriculares",
-    "price": 200000,
-    "stock": 1,
+    "category": "audio",
+    "price": "200000",
+    "stock": "1",
     "id": "efe20a384fbed162bbe0c527",
     "img": "https://www.sony.com.ar/image/dd18cf93606d238305a733d336c45537?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF"
   },
   {
     "title": "auriculares razer",
-    "category": "sonido",
-    "price": 67000,
-    "stock": 1,
+    "category": "audio",
+    "price": "67000",
+    "stock": "1",
     "id": "4782be587c4b820f1614f0b3",
     "img": "https://http2.mlstatic.com/D_NQ_NP_923817-MLU69865285193_062023-O.webp"
   },
@@ -145,9 +145,9 @@
   },
   {
     "title": "teclado redragon",
-    "category": "teclados",
-    "price": 200000,
-    "stock": 1,
+    "category": "accesorios",
+    "price": "200000",
+    "stock": "1",
     "id": "25773fd5fdc0528f73b0bf2f",
     "img": "https://acdn.mitiendanube.com/stores/002/836/144/products/1-a15f914ee20dccd7bf17207206710967-1024-1024.jpg"
   },
@@ -318,5 +318,42 @@
     "stock": 1,
     "id": "596f88411778a2eb66a3f27f",
     "img": "https://http2.mlstatic.com/D_NQ_NP_942133-MLA74651936102_022024-O.webp"
+  },
+  {
+    "title": "GameBoy",
+    "category": "consola",
+    "price": "160000",
+    "stock": "3",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_984262-MLU73979168474_012024-O.webp",
+    "id": "386d44f768b0db849caac7f7"
+  },
+  {
+    "title": "Celular Samsung",
+    "category": "celulares",
+    "price": 800000,
+    "stock": 3,
+    "id": "5c34d6d99324ec619bed5da2"
+  },
+  {
+    "title": "Celular Lg",
+    "category": "celulares",
+    "price": 800000,
+    "stock": 3,
+    "id": "2a4f5dc0526c72c351cf305f"
+  },
+  {
+    "title": "Mouse lg",
+    "category": "accesorios",
+    "price": 650000,
+    "stock": 2,
+    "id": "73af82cd4cee471cb3364adf"
+  },
+  {
+    "title": "hola",
+    "category": "accesorios",
+    "price": "133454",
+    "stock": "4",
+    "img": "https://acdn.mitiendanube.com/stores/001/097/819/products/iphone-15-pro-7c1ab5497a07442f3a16968118854095-1024-1024.jpeg",
+    "id": "df8d4530dedc9abc7dd5ba91"
   }
 ]
